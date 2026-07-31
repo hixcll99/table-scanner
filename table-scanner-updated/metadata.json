@@ -1,0 +1,6 @@
+{
+  "name": "Table Scanner",
+  "description": "Scan your table for PVC cover cutting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
